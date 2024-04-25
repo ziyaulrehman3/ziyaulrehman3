@@ -12,3 +12,4 @@
 - ⚡ Fun fact: ...
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,c,cpp,java,html,css&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,npm&perline=8)](https://skillicons.dev)
