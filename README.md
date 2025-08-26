@@ -6,8 +6,35 @@ I'm Ziya Ul Rehman (he/him) - I'm a Software Engineer, Designer, Coder, Develope
 
 ## 🚀 What I Do
 
-Backend Development – NodeJS, ExpressJS, REST APIs, MongoDB, MySQL, Firebase <br>
-Frontend Development – ReactJS, NextJS, EJS, TailwindCSS, Framer Motion <br>
-Android Development – React Native, Native Wind <br>
-Artificial Intelligence – LLM integration, chatbots, AI-powered applications, Sales Agents <br>
-Cloud – AWS 
+<b>• Backend Development</b> – NodeJS, ExpressJS, REST APIs, MongoDB, MySQL, Firebase <br>
+<b>• Frontend Development</b> – ReactJS, NextJS, EJS, TailwindCSS, Framer Motion <br>
+<b>• Android Development</b> – React Native, Native Wind <br>
+<b>• Artificial Intelligence</b> – LLM integration, chatbots, AI-powered applications, Sales Agents <br>
+<b>• Cloud</b> – AWS <br>
+
+
+## 🛠️ Tech Stack
+Languages:
+C • C++ • Python • JavaScript 
+
+<b>Backend:</b>
+NodeJS • ExpressJS  
+
+<b>Frontend:</b>
+ReactJS • NextJS • EJS • TailwindCSS • Framer Motion • HTML5 • CSS3 • Bootstrap • ChartJS
+
+<b>Android:</b>
+React Native • Native Wind
+
+<b>Database:</b>
+MongoDB • MySQL • Firebase
+
+<b>DevOps & Cloud:</b>
+AWS (EC2, S3, Lambda) • GitHub Actions
+
+<b>Testing, Automation & Tools:</b>
+Postman • Git • GitHub
+
+<b>AI:</b>
+LangChain • ElevenLabs • OpenAI 
+Prompt Engineering • LLM Agents
