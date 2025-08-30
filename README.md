@@ -37,4 +37,4 @@ Postman • Git • GitHub
 
 <b>AI:</b>
 LangChain • ElevenLabs • OpenAI 
-Prompt Engineering • LLM Agents
+• LLM Agents
