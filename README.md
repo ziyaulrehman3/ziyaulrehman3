@@ -18,7 +18,7 @@ Languages:
 C • C++ • Python • JavaScript 
 
 <b>Backend:</b>
-NodeJS • ExpressJS • HelmetJS
+NodeJS • ExpressJS • HelmetJS • Cors
 
 <b>Frontend:</b>
 ReactJS • NextJS • EJS • TailwindCSS • Framer Motion • HTML5 • CSS3 • Bootstrap • ChartJS
@@ -30,7 +30,7 @@ React Native • Native Wind
 MongoDB • MySQL • Firebase
 
 <b>DevOps & Cloud:</b>
-AWS (EC2, IAM) • GitHub Actions • NginX
+AWS (EC2, IAM, AMI, S3, ELB, EBS, Lambdha, Auto-scalling) • GitHub Actions • NginX
 
 <b>Testing, Automation & Tools:</b>
 Postman • Git • GitHub
