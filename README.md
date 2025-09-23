@@ -30,7 +30,7 @@ React Native • Native Wind
 MongoDB • MySQL • Firebase
 
 <b>DevOps & Cloud:</b>
-AWS (EC2, IAM, AMI, S3, ELB, EBS, Lambdha, Auto-scalling) • GitHub Actions • NginX
+AWS (EC2, IAM, AMI, S3, ELB, EBS, Lambdha, Auto-scalling) • NginX
 
 <b>Testing, Automation & Tools:</b>
 Postman • Git • GitHub
