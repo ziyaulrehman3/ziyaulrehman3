@@ -27,7 +27,7 @@ NodeJS • ExpressJS • HelmetJS • Cors
 <b>Frontend:</b>
 ReactJS • NextJS • EJS • TailwindCSS • Framer Motion • HTML5 • CSS3 • Bootstrap • ChartJS
 
-<b>Android:</b>
+<b>Mobile App:</b>
 React Native • Native Wind
 
 <b>Database:</b>
