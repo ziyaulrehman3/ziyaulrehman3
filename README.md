@@ -7,9 +7,13 @@ I'm Ziya Ul Rehman (he/him) - I'm a Software Engineer, Designer, Coder, Develope
 ## 🚀 What I Do
 
 <b>• Backend Development</b> – NodeJS, ExpressJS, REST APIs, MongoDB, MySQL, Firebase, Phone Calling, Middleware <br>
+
 <b>• Frontend Development</b> – ReactJS, NextJS, EJS, TailwindCSS, Framer Motion <br>
+
 <b>• Android Development</b> – React Native, Native Wind <br>
+
 <b>• Artificial Intelligence</b> – LLM integration, chatbots, AI-powered applications, Sales Agents, Calling Agents <br>
+
 <b>• Cloud</b> – AWS <br>
 
 
