@@ -6,15 +6,15 @@ I'm Ziya Ul Rehman (he/him) - I'm a Software Engineer, Designer, Coder, Develope
 
 ## 🚀 What I Do
 
-<b>• Backend Development</b> – NodeJS, ExpressJS, REST APIs, MongoDB, MySQL, Firebase, Phone Calling, Middleware <br>
+<b>• Backend Development</b> – Fully Functional Advanced Server, Load Balancer, Proxy Server, REST APIs, Phone Calling, Middleware, Authentication Server <br>
 
-<b>• Frontend Development</b> – ReactJS, NextJS, EJS, TailwindCSS, Framer Motion <br>
+<b>• Frontend Development</b> – Advanced Website, Full Functional Advanced Production Level Web Application, Audio & Video Calling, Server Side Rendering, Admin Panel <br>
 
-<b>• Android Development</b> – React Native, Native Wind <br>
+<b>• Mobile App Development</b> – Android Application, iOS Application, Streaming Application, Live Activity Tracking Application<br>
 
-<b>• Artificial Intelligence</b> – LLM integration, chatbots, AI-powered applications, Sales Agents, Calling Agents <br>
+<b>• Artificial Intelligence</b> – Powerful Agents, LLM integration, Chatbots with no Latency, AI-powered applications, Sales Agents, Calling Agents, Custum Agents <br>
 
-<b>• Cloud</b> – AWS <br>
+<b>• Cloud</b> – Instance/Server Building, Load Balancer, Hosting, Access Control Manager, Smart Integration, CDN <br>
 
 
 ## 🛠️ Tech Stack
@@ -34,7 +34,7 @@ React Native • Native Wind
 MongoDB • MySQL • Firebase
 
 <b>DevOps & Cloud:</b>
-AWS (EC2, IAM, AMI, S3, ELB, EBS, Lambdha, Auto-scalling) • NginX
+AWS (EC2, IAM, AMI, S3, ELB, EBS, Lambdha, Auto-scalling) • NginX • Linux
 
 <b>Testing, Automation & Tools:</b>
 Postman • Git • GitHub
