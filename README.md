@@ -6,7 +6,7 @@ I'm Ziya Ul Rehman (he/him) - I'm a Software Engineer, Designer, Coder, Develope
 
 ## 🚀 What I Do
 
-<b>• Backend Development</b> – Fully Functional Advanced Server, Load Balancer, Proxy Server, REST APIs, Phone Calling, Middleware, Authentication Server <br>
+<b>• Backend Development</b> – Fully Functional Advanced Server, API Gateway, Load Balancer, Proxy Server, REST APIs, Phone Calling, Middleware, Authentication Server <br>
 
 <b>• Frontend Development</b> – Advanced Website, Full Functional Advanced Production Level Web Application, Audio & Video Calling, Server Side Rendering, Admin Panel <br>
 
