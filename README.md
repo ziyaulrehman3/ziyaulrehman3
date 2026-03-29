@@ -19,7 +19,7 @@ I'm Ziya Ul Rehman (he/him) - I'm a Software Engineer, Designer, Coder, Develope
 
 ## 🛠️ Tech Stack
 Languages:
-C • C++ • Python • JavaScript • SQL
+C • C++ • Python • JavaScript • TypeScript • SQL
 
 <b>Backend:</b>
 NodeJS • ExpressJS • HelmetJS • Cors
